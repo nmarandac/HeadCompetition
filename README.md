@@ -1,5 +1,6 @@
 # Head Competition
-## Head Competition
+## Head Competition- Third Place 
+
 
 The Higher Education Analytics Data (HEAD) Competition is an annual event for students to apply analytical skills and storytelling abilities to solve business
 problems by exploring available data.
